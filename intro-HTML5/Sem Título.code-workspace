@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../maratona de programacao"
+		},
+		{
+			"path": "../algoritmos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "curso_de_javascript"
+	}
+}
